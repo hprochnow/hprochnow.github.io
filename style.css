@@ -4,13 +4,16 @@ font-weight: 400;
 font-style: normal;
 }
 H2{
+  font-family: brandon-grotesque, sans-serif;
+font-weight: 400;
+font-style: normal;
   padding: 2rem;
 }
 li{
   padding: 1rem;
 }
 body {
-  font-family: 'Spartan';
+  font-family: brandon-grotesque, sans-serif;
   color: black;
   background-color: whitesmoke;
 
