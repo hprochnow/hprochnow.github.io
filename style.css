@@ -5,23 +5,19 @@ font-style: normal;
 }
 H2{
   font-family: brandon-grotesque, sans-serif;
-font-weight: 400;
-font-style: normal;
+  font-weight: 400;
+  font-style: normal;
   padding: 2rem;
 }
-li{
-  padding: 1rem;
-}
+
 body {
   font-family: brandon-grotesque, sans-serif;
+  font-weight: 400;
+  font-style: normal;
   color: black;
   background-color: whitesmoke;
 
-}
-input{
-  margin: 2rem; 
-}
 .wrapper {
   display: grid;
-  grid-template-columns: 200px 200px 200px;
+  grid-template-columns: 400px 400px 400px;
 }
