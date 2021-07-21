@@ -2,7 +2,6 @@ H1 {
     font-family: 'Homemade Apple';
     font-size: 55px;
     padding: 1rem;
-
 }
 H2{
   padding: 2rem;
@@ -18,4 +17,8 @@ body {
 }
 input{
   margin: 2rem; 
+}
+.wrapper {
+  display: grid;
+  grid-template-columns: 200px 200px 200px;
 }
