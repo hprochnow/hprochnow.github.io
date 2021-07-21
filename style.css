@@ -28,7 +28,7 @@ body {
 
 .wrapper {
   display: grid;
-  grid-template-columns: 400px 400px;
+  grid-template-columns: 600px 600px;
   grid-template-rows:400px 400px;
   padding: 2rem;
 }
