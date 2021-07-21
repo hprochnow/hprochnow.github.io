@@ -18,5 +18,5 @@ body {
 
 .wrapper {
   display: grid;
-  grid-template-columns: 400px 400px 400px;
+  grid-template-columns: 300px 400px 400px;
 }
