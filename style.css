@@ -33,6 +33,6 @@ padding: 2rem;
 .wrapper {
   display: grid;
   grid-template-columns: 600px 600px;
-  grid-template-rows:400px 400px;
+  grid-template-rows:200px 200px;
   padding: 2rem;
 }
