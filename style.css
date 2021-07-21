@@ -26,6 +26,10 @@ body {
   background-color: white;
 }
 
+img {
+padding: 2rem;
+}
+
 .wrapper {
   display: grid;
   grid-template-columns: 600px 600px;
