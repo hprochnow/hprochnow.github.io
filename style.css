@@ -2,7 +2,6 @@ H1 {
 font-family: brandon-grotesque, sans-serif;
 font-weight: 400;
 font-style: normal;
-padding: 2rem;
 }
 H2 {
   font-family: brandon-grotesque, sans-serif;
@@ -33,7 +32,6 @@ ul {
   display: inline;
   list-style-type: none;
   margin: 0;
-  padding: 2rem;
 }
 li a{
   display: block;
