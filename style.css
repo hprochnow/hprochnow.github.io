@@ -36,12 +36,12 @@ padding: 2rem;
 .imgbox {
   display: grid;
   width: 100%;
+  padding: 2rem;
  }
 .center-fit {
   max-width: 100%;
   max-height: 100vh;
   margin: auto;
-  padding: 0rem;
 }
 
 ul {
