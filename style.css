@@ -28,7 +28,10 @@ body {
 img {
 padding: 2rem;
 }
+
 ul {
+  display: inline;
+  float: right;
   list-style-type: none;
   margin: 0;
   padding: 0;
