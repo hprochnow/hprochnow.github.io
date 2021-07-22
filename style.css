@@ -36,6 +36,7 @@ padding: 2rem;
 .imgbox {
   display: grid;
   width: 100%;
+  padding: 0;
  }
 
 .center-fit {
