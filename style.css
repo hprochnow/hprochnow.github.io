@@ -36,11 +36,13 @@ ul {
   display: inline;
   list-style-type: none;
   margin: 0;
+  padding: 0;
 }
 li a{
   display: block;
   float: right;
   color: black;
+  padding: 8px;
   text-decoration: none;
 }
 .wrapper {
