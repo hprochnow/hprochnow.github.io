@@ -30,13 +30,12 @@ body {
 }
 
 img {
-padding: 2rem;
+padding: 0;
 }
 
 .imgbox {
   display: grid;
   hight: 100%;
-  padding: 0;
  }
 
 .center-fit {
