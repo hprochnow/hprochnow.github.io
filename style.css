@@ -1,11 +1,10 @@
-html {
-margin: 2rem;
-}
 
 H1 {
 font-family: brandon-grotesque, sans-serif;
 font-weight: 400;
 font-style: normal;
+margin: 0;
+padding: 0;
 }
 H2 {
   font-family: brandon-grotesque, sans-serif;
@@ -17,7 +16,6 @@ H3 {
   font-family: brandon-grotesque, sans-serif;
   font-weight: 400;
   font-style: thin italic;
-  background-color: blue;
 }
 
 body {
