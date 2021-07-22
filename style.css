@@ -46,6 +46,10 @@ li a{
   padding: 8px;
   text-decoration: none;
 }
+
+a:active {
+  text-decoration: underline;
+}
 .wrapper {
   display: grid;
   grid-template-columns: 600px 600px;
