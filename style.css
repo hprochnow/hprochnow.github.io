@@ -1,10 +1,13 @@
+html {
+margin: 4vw;
+}
 
 H1 {
 font-family: brandon-grotesque, sans-serif;
 font-weight: 400;
 font-style: normal;
 letter-spacing: 0.05em;
-margin: 4vw;
+margin: 0;
 padding-bottom: 1rem;
 }
 H2 {
