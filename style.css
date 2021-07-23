@@ -20,6 +20,7 @@ H3 {
 }
 
 body {
+  display:grid;
   font-family: brandon-grotesque, sans-serif;
   font-weight: 400;
   font-size: 1vw;
