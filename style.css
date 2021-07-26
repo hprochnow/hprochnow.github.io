@@ -6,7 +6,7 @@ font-style: normal;
 font-size: 2rem;
 letter-spacing: 0.05em;
 margin: 2rem;
-color:pink;
+color:red;
 }
 H2 {
   font-family: brandon-grotesque, sans-serif;
@@ -21,14 +21,6 @@ H3 {
 }
 
 .nav-container-one {
-  padding-top: 2.2vw;
-  padding-bottom: 2.2vw;
-  padding-right: 4vw;
-  padding-left 4vw;
-  line-height: 1.8;
-}
-
-.nav-container-two {
   padding-top: 2.2vw;
   padding-bottom: 2.2vw;
   padding-right: 4vw;
