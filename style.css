@@ -65,14 +65,14 @@ padding-bottom: 1rem;
 }
 
 ul {
-  display: inline;
+  display: none;
   list-style-type: none;
   line-height: 1.8;
   margin-right: 2rem;
   padding-bottom: 4rem;
 }
 li a{
-  display: block;
+  display: inline-block;
   float: right;
   color: black;
   padding: 8px;
