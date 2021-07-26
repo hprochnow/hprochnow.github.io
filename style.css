@@ -21,6 +21,16 @@ H3 {
   font-style: normal;
 }
 
+Header{
+  position: relative;
+  z-index: 2;
+  width: 100%;
+  padding-top: 2.2vw;
+  padding-bottom: 2.2vw;
+  padding-right: 4vw;
+  padding-left 4vw;
+}
+
 body {
   font-family: brandon-grotesque, sans-serif;
   font-weight: 400;
