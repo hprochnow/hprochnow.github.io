@@ -6,7 +6,7 @@ font-style: normal;
 font-size: 2rem;
 letter-spacing: 0.05em;
 margin: 0rem;
-color:blue;
+color: black;
 }
 H2 {
   font-family: brandon-grotesque, sans-serif;
@@ -18,6 +18,12 @@ H3 {
   font-family: brandon-grotesque, sans-serif;
   font-weight: 500;
   font-style: normal;
+}
+
+.main-nav {
+  display: grid;
+  grid-template-columns: 40% 60%;
+  padding: 32px 40px;
 }
 
 .nav-container-one {
