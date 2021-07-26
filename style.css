@@ -39,9 +39,6 @@ float: left;
 .right{
 float:right;
 }
-.clear {
-    clear: both;
-}
 
 body {
   font-family: brandon-grotesque, sans-serif;
