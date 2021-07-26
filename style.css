@@ -19,8 +19,13 @@ H3 {
   font-weight: 500;
   font-style: normal;
 }
+.main-nav {
+  display: grid;
+  grid-template-columns: 40% 60%;
+  padding: 32px 40px;
+}
 
-.container {
+.nav-container-one {
   padding-top: 2.2vw;
   padding-bottom: 2.2vw;
   padding-right: 4vw;
