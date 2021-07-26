@@ -23,7 +23,7 @@ H3 {
 .main-nav {
   display: grid;
   grid-template-columns: 40% 60%;
-  padding: 32px 40px;
+  padding: 16px 20px;
 }
 
 .nav-container-one {
