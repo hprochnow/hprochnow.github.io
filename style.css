@@ -6,7 +6,6 @@ font-style: normal;
 letter-spacing: 0.05em;
 line-height: 1.8;
 margin: 0;
-padding-bottom: 2.5rem;
 }
 H2 {
   font-family: brandon-grotesque, sans-serif;
@@ -59,8 +58,9 @@ padding-bottom: 1rem;
 ul {
   display: inline;
   list-style-type: none;
+  line-height: 1.8;
   margin-right: 2rem;
-  padding-top: 1rem;
+  padding: 0;
 }
 li a{
   display: block;
