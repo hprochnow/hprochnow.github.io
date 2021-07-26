@@ -6,7 +6,8 @@ font-style: normal;
 letter-spacing: 0.05em;
 line-height: 1.8;
 margin: 0;
-padding-bottom: 1rem;
+padding-bottom: 2rem;
+color:red;
 }
 H2 {
   font-family: brandon-grotesque, sans-serif;
