@@ -44,6 +44,7 @@ body {
   background-color: white;
 }
 .footer-container{
+  float: right;
   padding-top: 2.2vw;
   padding-bottom: 2.2vw;
   padding-right: 4vw;
