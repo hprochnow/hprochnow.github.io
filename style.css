@@ -60,8 +60,8 @@ ul {
   display: inline;
   list-style-type: none;
   line-height: 1.8;
-  margin-right: 0rem;
-  padding: 0;
+  margin-right: 2rem;
+  padding: 2rem;
 }
 li a{
   display: block;
