@@ -1,5 +1,6 @@
 
 H1 {
+display: block;
 font-family: brandon-grotesque, sans-serif;
 font-weight: 400;
 font-style: normal;
@@ -56,7 +57,7 @@ padding-bottom: 1rem;
   margin: auto;
 }
 
-ul {
+ul .container{
   display: inline;
   list-style-type: none;
   line-height: 1.8;
