@@ -43,6 +43,13 @@ body {
   padding: 2rem;
   background-color: white;
 }
+.footer-container{
+  padding-top: 2.2vw;
+  padding-bottom: 2.2vw;
+  padding-right: 4vw;
+  padding-left 4vw;
+  line-height: 1.8;
+}
 
 img {
 padding: 0;
