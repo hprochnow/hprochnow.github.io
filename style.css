@@ -32,14 +32,6 @@ H3 {
   line-height: 1.8;
 }
 
-.left {
-float: left;
-}
-
-.right{
-float:right;
-}
-
 body {
   font-family: brandon-grotesque, sans-serif;
   font-weight: 400;
