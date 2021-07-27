@@ -1,5 +1,6 @@
 html {
 margin: 0;
+padding: 0;
 box-sizing: border-box;
 overflow-x: hidden;
 }
@@ -11,7 +12,7 @@ font-style: normal;
 font-size: 2rem;
 letter-spacing: 0.05em;
 margin: 0rem;
-color: black;
+color: purple;
 }
 H2 {
   font-family: brandon-grotesque, sans-serif;
@@ -28,7 +29,7 @@ H3 {
 .main-nav {
   display: grid;
   grid-template-columns: 40% 60%;
-  padding: 2rem 4rem;
+  padding: 16px 20px;
 }
 
 .nav-container-one {
