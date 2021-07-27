@@ -12,7 +12,7 @@ font-style: normal;
 font-size: 2rem;
 letter-spacing: 0.05em;
 margin: 0rem;
-color: black;
+color: red;
 }
 H2 {
   font-family: brandon-grotesque, sans-serif;
@@ -26,6 +26,13 @@ H3 {
   font-style: normal;
 }
 
+.header {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  line-height: 1;
+}
 .main-nav {
   display: grid;
   grid-template-columns: 40% 60%;
