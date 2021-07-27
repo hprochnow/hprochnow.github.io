@@ -113,7 +113,7 @@ a:active {
   max-width: 100%;
   max-height: 100vh;
   grid-template-columns: 600px 600px;
-  grid-template-rows:300px 300px;
+  grid-template-rows:600px 300px;
   padding: 2rem;
 }
 
