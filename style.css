@@ -12,7 +12,7 @@ font-style: normal;
 font-size: 2rem;
 letter-spacing: 0.05em;
 margin: 0rem;
-color: blue;
+color: black;
 }
 H2 {
   font-family: brandon-grotesque, sans-serif;
@@ -65,8 +65,8 @@ body {
   padding: 0;
   background-color: white;
 }
-.footer-container{
-  float: right;
+.footer-container {
+  float: left;
   padding-top: 2.2vw;
   padding-bottom: 2.2vw;
   padding-right: 4vw;
@@ -116,3 +116,4 @@ a:active {
   grid-template-rows:300px 300px;
   padding: 2rem;
 }
+
