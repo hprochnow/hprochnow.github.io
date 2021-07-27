@@ -1,5 +1,5 @@
 html {
-margin: 0;
+margin: 4vw;
 padding: 0;
 box-sizing: border-box;
 overflow-x: hidden;
@@ -12,7 +12,7 @@ font-style: normal;
 font-size: 2rem;
 letter-spacing: 0.05em;
 margin: 0rem;
-color: pink;
+color: blue;
 }
 H2 {
   font-family: brandon-grotesque, sans-serif;
