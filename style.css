@@ -12,7 +12,7 @@ font-style: normal;
 font-size: 2rem;
 letter-spacing: 0.05em;
 margin: 0rem;
-color: blue;
+color: black;
 }
 H2 {
   font-family: brandon-grotesque, sans-serif;
@@ -34,8 +34,8 @@ H3 {
 
 .nav-container-one {
   padding-top: 0vw;
-  padding-bottom: 2.2vw;
-  padding-right: 4vw;
+  padding-bottom: 0vw;
+  padding-right: 0vw;
   padding-left 4vw;
   line-height: 1.8;
 }
