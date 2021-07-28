@@ -12,7 +12,7 @@ font-style: normal;
 font-size: 2rem;
 letter-spacing: 0.05em;
 margin: 0rem;
-color: black;
+color: red;
 }
 H2 {
   font-family: brandon-grotesque, sans-serif;
@@ -115,10 +115,11 @@ a:active {
 }
 .wrapper {
   display: flex;
-  max-width: 80rem;
+  max-width: 100rem;
   max-height: 100vh;
   grid-template-columns: repeat(auto-fit, minmax(600px, 1fr));
   grid-template-rows:300px 600px;
   padding: 2rem;
+  background-color: light blue;
 }
 
