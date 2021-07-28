@@ -38,7 +38,7 @@ H3 {
 .main-nav {
   display: grid;
   grid-template-columns: 40% 60%;
-  padding: 16px 20px;
+  padding: 16px 16px;
 }
 
 .nav-container-one {
@@ -105,7 +105,6 @@ ul {
   line-height: 1.8;
   margin-right: 2rem;
   padding-bottom: 4rem;
-  color: blue;
 }
 
 li a{
