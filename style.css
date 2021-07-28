@@ -114,8 +114,8 @@ a:active {
   text-decoration: underline;
 }
 .wrapper {
-  display: grid;
-  max-width: 100%;
+  display: flex;
+  max-width: 60rem;
   max-height: 100vh;
   grid-template-columns: repeat(auto-fit, minmax(600px, 1fr));
   grid-template-rows:300px 600px;
