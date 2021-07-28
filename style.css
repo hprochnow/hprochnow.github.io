@@ -14,7 +14,7 @@ font-size: 2rem;
 letter-spacing: 0.05em;
 margin: 0rem;
 padding-top: 2rem;
-color: black;
+color: red;
 }
 
 H2 {
@@ -107,7 +107,7 @@ ul {
   list-style-type: none;
   line-height: 1.8;
   margin-right: 2rem;
-  padding-bottom: 2rem;
+  padding-bottom: 6rem;
 }
 
 li a{
