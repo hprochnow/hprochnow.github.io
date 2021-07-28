@@ -39,6 +39,7 @@ H3 {
   display: grid;
   grid-template-columns: 40% 60%;
   padding: 16px 16px;
+  padding-left: 0;
 }
 
 .nav-container-one {
