@@ -79,6 +79,10 @@ display: block;
   line-height: 1.8;
 }
 
+.hook{
+  flex-grow: 4rem;
+}
+
 img {
 padding: 0;
 padding-bottom: 1rem;
@@ -115,11 +119,11 @@ a:active {
 }
 .wrapper {
   display: flex;
+  flex-wrap: wrap;
   max-width: 100rem;
   max-height: 100vh;
   grid-template-columns: repeat(auto-fit, minmax(600px, 1fr));
   grid-template-rows:300px 600px;
   padding: 2rem;
-  background-color: light blue;
 }
 
