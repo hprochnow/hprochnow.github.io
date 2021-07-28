@@ -80,7 +80,6 @@ display: block;
 }
 
 .hook{
-  flex-grow: 2rem;
 }
 
 img {
@@ -118,8 +117,7 @@ a:active {
   text-decoration: underline;
 }
 .wrapper {
-  display: flex;
-  flex-wrap: wrap;
+  display: grid;
   max-width: 100rem;
   max-height: 100vh;
   grid-template-columns: repeat(auto-fit, minmax(600px, 1fr));
